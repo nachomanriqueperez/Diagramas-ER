@@ -1,0 +1,2 @@
+Los ejercicios han sido contestados en extensiones .dia con el programa dia de linux. Poner dia en la terminal y presionar enter.
+Saldrá el programa dia con el cual podremos abrir todos los ficheros, excepto los contestados en los .txt.
