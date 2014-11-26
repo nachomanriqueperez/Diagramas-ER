@@ -1,0 +1,2 @@
+Un album puede producir varias canciones, lo cual puede querer decir que tenga más de una, y la restricción que podemos poner
+es que tenga al menos una.

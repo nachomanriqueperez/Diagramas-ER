@@ -1,0 +1,3 @@
+2) Entonces el precio pasaria a ser una cualidad de medicamento.
+3)Crearia una nueva entidad llamada receta, la vincularia con medico y paciente y le meteria como nuevas cualidades
+a esa entidad, la fecha y la cantidad
